@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-y7c54v.radarsatu88.shop/sitemap.xml
